@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "v1aDv/tSYDx9s+OkmUoof4BDSMQEGAHWxMFCZggyN18=",
+  "Source": "NHM_API",
+  "BasePath": "_content/NHM_API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NHM_API\\wwwroot",
+      "Source": "NHM_API",
+      "ContentRoot": "D:\\CDAT Git Project\\cdat_git_nhm_core_api_2024\\NHM_API\\wwwroot\\",
+      "BasePath": "_content/NHM_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CDAT Git Project\\cdat_git_nhm_core_api_2024\\NHM_API\\wwwroot\\Index.html",
+      "SourceId": "NHM_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAT Git Project\\cdat_git_nhm_core_api_2024\\NHM_API\\wwwroot\\",
+      "BasePath": "_content/NHM_API",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "D:\\CDAT Git Project\\cdat_git_nhm_core_api_2024\\NHM_API\\wwwroot\\Upload\\Document_2024\\3\\5.pdf",
+      "SourceId": "NHM_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAT Git Project\\cdat_git_nhm_core_api_2024\\NHM_API\\wwwroot\\",
+      "BasePath": "_content/NHM_API",
+      "RelativePath": "Upload/Document_2024/3/5.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Document_2024\\3\\5.pdf"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "io7zCHfBFG0ve5irZZk3Q7e6YRR5P8FNovZLudnYPKpug9a6I1QdcErt2RHfWlF6ahalSTgcBE50DZnyb064Sg==",
+  "success": true,
+  "projectFilePath": "D:\\NHM 2024\\cdat_git_nhm_core_api_2024\\BAL\\BAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\6.0.0\\system.io.pipelines.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

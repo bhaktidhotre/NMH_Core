@@ -1,0 +1,97 @@
+F:\NHM\NHM_API\BAL\bin\Debug\net6.0\BAL.deps.json
+F:\NHM\NHM_API\BAL\bin\Debug\net6.0\BAL.dll
+F:\NHM\NHM_API\BAL\bin\Debug\net6.0\ref\BAL.dll
+F:\NHM\NHM_API\BAL\bin\Debug\net6.0\BAL.pdb
+F:\NHM\NHM_API\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHM\NHM_API\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+F:\NHM\NHM_API\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+F:\NHM\NHM_API\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+F:\NHM\NHM_API\BAL\obj\Debug\net6.0\BAL.dll
+F:\NHM\NHM_API\BAL\obj\Debug\net6.0\ref\BAL.dll
+F:\NHM\NHM_API\BAL\obj\Debug\net6.0\BAL.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.deps.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\refint\BAL.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\ref\BAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.deps.json
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\ref\BAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\ref\BAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.deps.json
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\refint\BAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\ref\BAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.deps.json
+F:\NHM Core\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.sourcelink.json
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\refint\BAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\ref\BAL.dll
+D:\NHM Core\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.deps.json
+D:\NHM Core\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.dll
+D:\NHM Core\cdat_git_nhm_core_api\BAL\bin\Debug\net6.0\BAL.pdb
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.sourcelink.json
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.dll
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\refint\BAL.dll
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\BAL.pdb
+D:\NHM Core\cdat_git_nhm_core_api\BAL\obj\Debug\net6.0\ref\BAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\bin\Debug\net6.0\BAL.deps.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\bin\Debug\net6.0\BAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\bin\Debug\net6.0\BAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\refint\BAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\ref\BAL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\bin\Debug\net6.0\BAL.deps.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\bin\Debug\net6.0\BAL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\bin\Debug\net6.0\BAL.pdb
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.sourcelink.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\refint\BAL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\BAL.pdb
+D:\NHM 2024\cdat_git_nhm_core_api_2024\BAL\obj\Debug\net6.0\ref\BAL.dll

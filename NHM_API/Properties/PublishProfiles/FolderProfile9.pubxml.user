@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\CDAT_git_Project\cdat_git_nhm_core_api\Publish</_PublishTargetUrl>
+    <History>True|2023-12-14T12:01:40.3598054Z;True|2023-12-14T17:28:39.2224979+05:30;True|2023-12-14T17:24:31.2366369+05:30;True|2023-12-14T17:22:15.6975563+05:30;True|2023-12-14T17:21:54.9679368+05:30;True|2023-12-14T16:54:08.4132678+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

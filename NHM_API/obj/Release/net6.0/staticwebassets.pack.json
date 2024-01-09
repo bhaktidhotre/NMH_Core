@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NHM 2024\\cdat_git_nhm_core_api_2024\\NHM_API\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "D:\\NHM 2024\\cdat_git_nhm_core_api_2024\\NHM_API\\wwwroot\\Upload\\Document_2024\\3\\5.pdf",
+      "PackagePath": "staticwebassets\\Upload\\Document_2024\\3\\5.pdf"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.NHM_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.NHM_API.props",
+      "PackagePath": "build\\NHM_API.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NHM_API.props",
+      "PackagePath": "buildMultiTargeting\\NHM_API.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.NHM_API.props",
+      "PackagePath": "buildTransitive\\NHM_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

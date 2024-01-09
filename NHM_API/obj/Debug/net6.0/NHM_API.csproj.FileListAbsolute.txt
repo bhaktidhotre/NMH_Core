@@ -1,0 +1,407 @@
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.csproj.AssemblyReference.cache
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfoInputs.cache
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfo.cs
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CoreCompileInputs.cache
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cs
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cache
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\appsettings.Development.json
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\appsettings.json
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\NHM_API.exe
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\NHM_API.deps.json
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\NHM_API.runtimeconfig.json
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\NHM_API.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\ref\NHM_API.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\NHM_API.pdb
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Dapper.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\BOL.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\DAL.dll
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\BOL.pdb
+F:\NHM\NHM_API\NHM_API\bin\Debug\net6.0\DAL.pdb
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\staticwebassets.build.json
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\staticwebassets.development.json
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\scopedcss\bundle\NHM_API.styles.css
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CopyComplete
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.dll
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\ref\NHM_API.dll
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.pdb
+F:\NHM\NHM_API\NHM_API\obj\Debug\net6.0\NHM_API.genruntimeconfig.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.Development.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.exe
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.deps.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.runtimeconfig.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Dapper.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.AssemblyReference.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfoInputs.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfo.cs
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CoreCompileInputs.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.NHM_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.build.NHM_API.props
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NHM_API.props
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NHM_API.props
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\scopedcss\bundle\NHM_API.styles.css
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CopyComplete
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\refint\NHM_API.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.genruntimeconfig.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\ref\NHM_API.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.Development.json
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.json
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.exe
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.deps.json
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.runtimeconfig.json
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\ref\NHM_API.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.pdb
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Dapper.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.AssemblyReference.cache
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfoInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfo.cs
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CoreCompileInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cs
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cache
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.build.json
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.development.json
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\scopedcss\bundle\NHM_API.styles.css
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CopyComplete
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\ref\NHM_API.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.pdb
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.genruntimeconfig.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.Development.json
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.json
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.exe
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.deps.json
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.runtimeconfig.json
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Dapper.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.AssemblyReference.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfoInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfo.cs
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CoreCompileInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.NHM_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.build.NHM_API.props
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NHM_API.props
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NHM_API.props
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\scopedcss\bundle\NHM_API.styles.css
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CopyComplete
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\refint\NHM_API.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.genruntimeconfig.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\ref\NHM_API.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.staticwebassets.runtime.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.staticwebassets.runtime.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.Development.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.staticwebassets.runtime.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.exe
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.deps.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.runtimeconfig.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.pdb
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Dapper.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.AssemblyReference.cache
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfoInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfo.cs
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CoreCompileInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cs
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cache
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.sourcelink.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.build.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.development.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.NHM_API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.build.NHM_API.props
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NHM_API.props
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NHM_API.props
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\scopedcss\bundle\NHM_API.styles.css
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CopyComplete
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\refint\NHM_API.dll
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.pdb
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.genruntimeconfig.cache
+F:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\ref\NHM_API.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.Development.json
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\appsettings.json
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.staticwebassets.runtime.json
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.exe
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.deps.json
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.runtimeconfig.json
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\NHM_API.pdb
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Dapper.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\BOL.pdb
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\bin\Debug\net6.0\DAL.pdb
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.AssemblyReference.cache
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfoInputs.cache
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfo.cs
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CoreCompileInputs.cache
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cs
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cache
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.sourcelink.json
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.NHM_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.build.NHM_API.props
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NHM_API.props
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NHM_API.props
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\scopedcss\bundle\NHM_API.styles.css
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CopyComplete
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\refint\NHM_API.dll
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.pdb
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\NHM_API.genruntimeconfig.cache
+D:\NHM Core\cdat_git_nhm_core_api\NHM_API\obj\Debug\net6.0\ref\NHM_API.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\appsettings.Development.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\appsettings.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.staticwebassets.runtime.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.exe
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.deps.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.runtimeconfig.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Dapper.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\BOL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\BOL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\DAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.csproj.AssemblyReference.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfoInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfo.cs
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CoreCompileInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.NHM_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.build.NHM_API.props
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NHM_API.props
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NHM_API.props
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\scopedcss\bundle\NHM_API.styles.css
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CopyComplete
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\refint\NHM_API.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.genruntimeconfig.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\ref\NHM_API.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\appsettings.Development.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\appsettings.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.staticwebassets.runtime.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.exe
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.deps.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.runtimeconfig.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\NHM_API.pdb
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Dapper.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\BOL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\DAL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\BOL.pdb
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\bin\Debug\net6.0\DAL.pdb
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.csproj.AssemblyReference.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfoInputs.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.AssemblyInfo.cs
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CoreCompileInputs.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cs
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.MvcApplicationPartsAssemblyInfo.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.sourcelink.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.NHM_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.build.NHM_API.props
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NHM_API.props
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NHM_API.props
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\scopedcss\bundle\NHM_API.styles.css
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.csproj.CopyComplete
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\refint\NHM_API.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.pdb
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\NHM_API.genruntimeconfig.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\NHM_API\obj\Debug\net6.0\ref\NHM_API.dll

@@ -1,0 +1,92 @@
+F:\NHM Core\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.deps.json
+F:\NHM Core\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\BOL.dll
+F:\NHM Core\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\BOL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.CopyComplete
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\ref\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.deps.json
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\BOL.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\BOL.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.CopyComplete
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\refint\DAL.dll
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.pdb
+D:\CDAT_git_Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\ref\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.deps.json
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\BOL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\BOL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.CopyComplete
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\refint\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\ref\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.deps.json
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\ref\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\DAL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\BOL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\bin\Release\net6.0\BOL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.csproj.CopyComplete
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\ref\DAL.dll
+F:\NHM Core\cdat_git_nhm_core_api\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.pdb
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\DAL.sourcelink.json
+F:\NHM Core\cdat_git_nhm_core_api\DAL\obj\Release\net6.0\refint\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\DAL.deps.json
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\DAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\BOL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\BOL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.csproj.CopyComplete
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\refint\DAL.dll
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.pdb
+D:\CDAT Git Project\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\ref\DAL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\DAL.deps.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\DAL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\DAL.pdb
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\BOL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\bin\Release\net6.0\BOL.pdb
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.sourcelink.json
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.csproj.CopyComplete
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\refint\DAL.dll
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\DAL.pdb
+D:\NHM 2024\cdat_git_nhm_core_api_2024\DAL\obj\Release\net6.0\ref\DAL.dll
